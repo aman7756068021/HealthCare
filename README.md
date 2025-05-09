@@ -8,6 +8,13 @@ The dataset used for this project is publicly available on Kaggle:
 * File Name: healthcare-dataset-stroke-data.csv
 * Description: The dataset includes patient information like age, gender, BMI, smoking status, and health conditions such as heart disease and hypertension, along with stroke 
   status (1 = stroke, 0 = no stroke).
+
+![image](https://github.com/user-attachments/assets/517dcf1f-3f79-44b0-bd87-118bd039050b)
+
+
+![image](https://github.com/user-attachments/assets/f37045ab-9906-4693-b8fa-77fb7ec1b154)
+
+
 # Objectives:-
 * Data Cleaning: Prepare the dataset by handling missing values, encoding categorical data, and normalizing numerical features.
 * Exploratory Data Analysis (EDA): Derive meaningful insights about stroke risk factors and trends using visualizations.
